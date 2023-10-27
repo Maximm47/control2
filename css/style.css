@@ -1,0 +1,44 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.con1 {
+    background-image: url(../img/stussy.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    
+}
+#span {
+    background-color: rgb(255, 255, 255);
+    color: rgb(106, 109, 112);
+    padding: 5px 20px;
+}
+.con1 h3 {
+    text-align: center;
+    padding-top: 300px;
+    color: aliceblue;
+}
+.con1 h5 {
+    text-align: center;
+    text-decoration: none;
+    padding: 40px;
+}
+.con1 h5 a {
+    text-decoration: none;
+    color: brown;
+}
+.nav1 {
+    color: aliceblue;
+}
+.nav2 {
+    color: brown;
+}
+.nav li {
+    padding: 0 15px;
+}
+.img1 {
+    width: 550px;
+}
+.img2 {
+    width: 400px;
+}
