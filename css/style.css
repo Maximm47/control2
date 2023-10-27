@@ -42,3 +42,33 @@
 .img2 {
     width: 400px;
 }
+.img3 {
+    background-image: url(../img/10\ deep.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img3 h4 {
+    padding-left: 10px;
+    padding-top: 340px;
+    color: aliceblue;
+}
+.img4 {
+    background-image: url(../img/palace.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img4 h4 {
+    padding-left: 10px;
+    padding-top: 300px;
+    color: aliceblue;
+}
+.img5 {
+    background-image: url(../img/nike.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img5 h4 {
+    padding-left: 10px;
+    padding-top: 370px;
+    color: aliceblue;
+}
