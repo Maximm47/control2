@@ -1,13 +1,12 @@
 *{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
-.con1 {
+nav {
     background-image: url(../img/stussy.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
-    
 }
+
 #span {
     background-color: rgb(255, 255, 255);
     color: rgb(106, 109, 112);
