@@ -35,39 +35,84 @@ nav {
 .nav li {
     padding: 0 15px;
 }
+
+#con2 {
+    margin-right: 50px;
+}
 .img1 {
-    width: 550px;
+    width: 450px;
+    height: 520px;
+    margin-top: 20px;
 }
 .img2 {
-    width: 400px;
+    width: 450px;
+    height: 250px;
+    margin-top: 20px;
 }
 .img3 {
-    background-image: url(../img/10\ deep.jpg);
-    background-repeat: no-repeat;
-    background-size: 95%;
+    width: 450px;
+    height: 250px;
+    margin-top: 20px;
 }
-.img3 h4 {
-    padding-left: 10px;
-    padding-top: 340px;
-    color: aliceblue;
+
+#col1, #col2, #col3 {
+    position: relative;
 }
+#col1 h2, #col2 h2, #col3 h2 {
+    position: absolute;
+    bottom: 3px;
+    left: 30px;
+    background-color: aliceblue;
+    padding: 10px 20px;
+}
+
 .img4 {
-    background-image: url(../img/palace.jpg);
+    width: 260px;
+    height: 400px;
+    margin-top: 20px;
+}
+#col4, #col5, #col6{
+    position: relative;
+}
+#col4 h2, #col5 h2, #col6 h2 {
+    position: absolute;
+    bottom: 3px;
+    left: 30px;
+    background-color: aliceblue;
+    padding: 10px 20px;
+}
+
+.navig2 {
+    background-image: url(../img/brand.jpg);
     background-repeat: no-repeat;
-    background-size: 95%;
+    background-position-x: center;
+    height: 660px;
+    margin-top: 20px;
+    text-align: center;
 }
-.img4 h4 {
-    padding-left: 10px;
-    padding-top: 300px;
-    color: aliceblue;
+
+.navig2 h1 {
+    padding-top: 220px;
+    font-size: 100px;
+    color: black;
 }
-.img5 {
-    background-image: url(../img/nike.jpg);
-    background-repeat: no-repeat;
-    background-size: 95%;
+.navig2 a {
+    text-decoration: none;
+    color: brown;
+    font-size: 50px;
+    background-color: rgba( 255,255,255,0.7);
+    padding: 10px 30px;
 }
-.img5 h4 {
-    padding-left: 10px;
-    padding-top: 370px;
-    color: aliceblue;
+
+footer {
+    margin-top: 20px;
 }
+footer a {
+    text-decoration: none;
+    color: black;
+}
+.icon {
+    margin-right: 20px;
+}
+
+
